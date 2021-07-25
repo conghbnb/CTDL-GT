@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\maso.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\maso.dir/objects.a @CMakeFiles\maso.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\maso.dir/objects.a -Wl,--no-whole-archive -o maso.exe -Wl,--out-implib,libmaso.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\maso.dir\linklibs.rsp
